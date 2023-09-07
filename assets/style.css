@@ -36,7 +36,7 @@ section{
 }
 
 .box-title > h2{
-    font-size: 54px;
+    font-size: 48px;
     color: #00418b;
 }
 
@@ -109,6 +109,11 @@ section{
 .terms a:hover{
     text-decoration: underline;
 }
+
+.offer-btn2{
+    margin-top: -20px;
+}
+
 ion-icon {
     --ionicon-stroke-width: 50px;
 }
@@ -116,6 +121,11 @@ ion-icon {
 ion-icon {
     color: rgb(255, 208, 0);
 }
+
+.footerX a{
+    font-size: 10px;
+}
+
 
 @media (max-width: 700px){
     .box-title > h2{
